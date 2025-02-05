@@ -81,3 +81,16 @@ li {
 .explain {
    color: black
 }
+.contact {
+    padding-bottom: 20px;
+}
+.blogs {
+    padding-bottom: 100px;
+}
+.contact-info {
+    padding-bottom: 30px;
+}
+.footer {
+    background-color: rgb(172, 109, 109);
+    text-align: center;
+}
