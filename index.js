@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
-    // Form validation
+    //validation
     const form = document.querySelector(".contact form");
     form.addEventListener("submit", function (e) {
         e.preventDefault();
